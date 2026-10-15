@@ -1,0 +1,2 @@
+﻿Model,R2_train,R2_test,Coefficient,Intercept,Equation
+Linear Regression,0.5486,0.549,0.00613,1.3429,Quantity = 0.00613*Total_Price + 1.3429
