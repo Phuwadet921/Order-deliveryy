@@ -15,7 +15,7 @@
 | ตำแหน่งไฟล์ | คำอธิบาย |
 | --- | --- |
 | `Order_delivery1.csv` | ไฟล์ข้อมูลออเดอร์ มี 100,002 แถว 23 คอลัมน์ **ไม่มีค่าว่างและไม่มีแถวซ้ำ** |
-| `2222.ipynb` | Jupyter Notebook สำหรับวิเคราะห์ความสัมพันธ์ระหว่าง `Quantity` กับ `Total_Price` และสร้างโมเดล Linear / Polynomial Regression |
+| `New22221.ipynb` | Jupyter Notebook สำหรับวิเคราะห์ความสัมพันธ์ระหว่าง `Quantity` กับ `Total_Price` และสร้างโมเดล Linear / Polynomial Regression |
 
 วิธีรันซ้ำ: วางไฟล์ CSV ไว้โฟลเดอร์เดียวกับ Notebook แก้ตัวแปร `CSV_PATH` ให้ตรงกับชื่อไฟล์จริง (ใน Notebook ใช้ชื่อ `Order_delivery.csv`) แล้วรันเซลล์ตามลำดับ ไลบรารีที่ใช้: numpy, pandas, matplotlib, seaborn, scikit-learn
 
